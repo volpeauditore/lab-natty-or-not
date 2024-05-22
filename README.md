@@ -1,51 +1,45 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas! ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto criado com necessidade via DIO.ME
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Bing CHAT / Copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pesquisando utilizando o bing chat e pedindo ao chat gpt revisar
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Pesquisa com bing chat:
+Você
+Quantos anos tem a microsoft ?
+Copilot
+Gerando respostas para você…
+
+A Microsoft foi fundada em 1975, o que significa que tem 49 anos desde a sua criação. Desde então, a empresa evoluiu significativamente e se tornou uma das líderes globais em tecnologia e software. Se você estiver interessado em saber mais sobre o Microsoft Edge, um navegador rápido e seguro, você pode baixá-lo para Windows 11 / 10, macOS, iOS, Android ou Linux12. O Microsoft Edge possui ferramentas integradas, como Coleções, abas verticais e grupos de abas, que ajudam a manter a organização e a aproveitar ao máximo o tempo online3. 😊
+
+Revisão com o Chat GPT:
+
+Vamos corrigir e aprimorar sua afirmação com informações precisas:
+
+Correção do Aniversário da Microsoft:
+A Microsoft foi fundada em 1975. Se estamos em 2024, isso significa que a empresa tem 49 anos.
+Melhoria na Descrição do Microsoft Edge:
+Especificar os recursos do Microsoft Edge e corrigi-los onde necessário.
+Aqui está uma versão revisada:
+
+A Microsoft foi fundada em 1975, o que significa que tem 49 anos desde a sua criação. Desde então, a empresa evoluiu significativamente e se tornou uma das líderes globais em tecnologia e software. Se você estiver interessado em saber mais sobre o Microsoft Edge, um navegador rápido e seguro, você pode baixá-lo para Windows 11, Windows 10, macOS, iOS, Android ou Linux. O Microsoft Edge possui ferramentas integradas, como Coleções, abas verticais e grupos de abas, que ajudam a manter a organização e a aproveitar ao máximo o tempo online. 😊
+
+Notas Adicionais:
+Verificação de Datas e Anos:
+
+Fundada em 1975: 2024 - 1975 = 49 anos.
+Descrição do Microsoft Edge:
+
+Coleções: Permite reunir páginas da web, imagens e texto em um único lugar.
+Abas verticais: Facilitam a navegação ao listar as abas em uma barra lateral.
+Grupos de abas: Ajuda a agrupar abas relacionadas, melhorando a organização.
+Seguindo esses pontos, a descrição é precisa e informativa. Se precisar de mais detalhes ou ajustes, sinta-se à vontade para perguntar!
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
